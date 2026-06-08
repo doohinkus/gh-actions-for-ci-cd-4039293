@@ -6,7 +6,7 @@ The goal of this course is to explore the different features of GitHub Actions f
 
 ![lil-thumbnail-url]
 
-## Course Description
+## Course Description 
 
 <p>Doing continuous integration and continuous deployment (CI/CD) with GitHub Actions can improve development processes by automating the workflows that handle everything from code integration to deployment. In this course, discover how to configure continuous integration for languages like JavaScript, Python, and Go, to help ensure robust code quality and reliability. See how to automate delivery pipelines to package and publish your software using GitHub Packages and Docker registries. Explore ways to manage deployment credentials securely and review protection rules to help with smooth production rollouts. </p>
 <p>This course walks you through creating workflows tailored for cloud deployments, emphasizing scalable and secure practices. Whether you are a software developer or a DevOps engineer, you can simplify complex CI/CD tasks and deliver value faster and more efficiently by automating away the complexities, so you can focus more on delivering value directly to users. </p>

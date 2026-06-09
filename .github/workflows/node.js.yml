@@ -18,10 +18,6 @@ jobs:
       run:
         working-directory: ch1_integration/01_02_ci_for_javascript
 
-    defaults:
-      run:
-        working-directory: ch1_integration/01_02_ci_for_javascript
-
     strategy:
       matrix:
         node-version: [26.x]

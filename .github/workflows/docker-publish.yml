@@ -81,7 +81,7 @@ jobs:
         id: build-and-push
         uses: docker/build-push-action@v6.18.0
         with:
-          context: .
+          context: ./ch2_delivery/02_03_build_publish_a_container_image
           push: ${{ github.event_name != 'pull_request' }}
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
